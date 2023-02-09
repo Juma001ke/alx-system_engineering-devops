@@ -1,1 +1,1 @@
-pwd - prints the current working directory.
+script to print absolute path of current working directory
